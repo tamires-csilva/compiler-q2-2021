@@ -32,6 +32,17 @@ Estrutura básica da linguagem, abaixo são descritos os tipos de váriaveis e o
 | Lógico | Booleanos (verdadeiro/ false) |
 | Nada | [nN][aA][dD][aA] |
 
+
+#### Exemplo de implementação
+Implementação da variável *nada* no dicionário léxico
+```sh
+{nada}     {yylval.valor = yytext; yylval.codigo = ""; return TK_VOID;}
+```
+Implementação na linguagem de destino
+```sh
+ TK_VOID    {$$.valor = "v"; $$.codigo= "void ";$$.tipo = 'v'; }
+```
+
 Operadores matemáticos, comparativos e lógicos:
 
 | Tipo | Operadores |

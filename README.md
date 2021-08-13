@@ -7,7 +7,7 @@ Projeto desenvolvido para disciplina de Compiladores - Bacharelado em Ciência d
 
 ### Participantes
 
-- Alexandre Costa Magalhaes 
+- Alexandre Costa Magalhaes 21004216
 - Erick Funier dos Santos   11031914
 - Paulo Ricardo Cunha       11080312
 - Tamires C da Silva        11093813

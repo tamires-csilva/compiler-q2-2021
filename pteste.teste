@@ -1,0 +1,12 @@
+principal ()
+comeco
+inteiro a, b, c;
+a=3;
+Se(a>=3)
+entao a=0;
+senao b=3;
+fim_se;
+enquanto(a<5)
+faca a=a+1;
+fim_enquanto;
+final

@@ -30,7 +30,7 @@ Estrutura básica da linguagem, abaixo são descritos os tipos de váriaveis e o
 | Real | Números incluindo decimais ou ponto flutuante |
 | Caractere | Símbolos alfanúmericos (ASCII) |
 | Lógico | Booleanos (verdadeiro/ false) |
-| Nada | [nN][aA][dD][aA] |
+| Nada | Variável não tipada |
 
 
 #### Exemplo de implementação

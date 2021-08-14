@@ -85,4 +85,5 @@ Para executar o compilador desenvolvido:
 
 ```sh
 chmod +x makefile
+makefile
 ```
